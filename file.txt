@@ -1,1 +1,6 @@
 Hello welcome
+<<<<<<< HEAD
+=======
+this feature added by the new branch
+this feature added by the new branch 
+>>>>>>> f94313a (The new feature added)
